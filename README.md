@@ -2,27 +2,27 @@
 
 **Aspiring Full-Stack Developer | React | Next.js | TypeScript | Node.js | MongoDB**  
 
-🚀 Passionate about building scalable web applications with modern technologies. Always exploring new development trends and best practices to improve my skills.  
+Passionate about building scalable web applications with modern technologies. Always exploring new development trends and best practices to improve my skills.  
 
 ---
 
 ## 🔧 Tech Stack  
 
-### 🚀 Frontend  
+### Frontend  
 - React.js | Next.js | Tailwind CSS | State Management  
 
-### 💻 Programming Languages  
+### Programming Languages  
 - TypeScript | JavaScript | Python (Basics) | C/C++ (Basics)  
 
-### ⚙️ Backend & Database  
+### Backend & Database  
 - Node.js | Express.js | MongoDB | REST APIs | SQL  
 
-### 🛠 Tools & Concepts  
+### Tools & Concepts  
 - Git | GitHub | Postman | OOPS | Problem Solving | DSA (Basics)  
 
 ---
 
-## 🏗 Projects  
+## Projects  
 
 ### 📚 **Online Library Platform** ([Frontend Repo](https://github.com/nsamarpit25/ebook-react) | [Backend Repo](https://github.com/nsamarpit25/ebook-server) | [Live Demo](https://ebook-reactapp.vercel.app/))  
 - Full-stack eBook store with integrated reader and author publishing system  
@@ -45,18 +45,18 @@
 
 ---
 
-## 🎓 Education  
+## Education  
 - **Bachelor of Computer Applications (BCA)** - IGNOU (2022 - Present)  
 - **12th (Non-Medical)** - Pratap Public School (2022)  
 
 ---
 
-## 🎯 Interests  
+## Interests  
 - System Design | Problem Solving | Chess  
 
 ---
 
-## 📫 Let's Connect!  
+## Let's Connect!  
 - 💼 [Portfolio](https://portfolio-website-tau-murex.vercel.app/)  
 - 🏢 [LinkedIn](https://linkedin.com/in/nsamarpit25)  
 - 🏗 [GitHub](https://github.com/nsamarpit25)  
@@ -64,7 +64,7 @@
 
 ---
 
-⭐ **Feel free to explore my projects and connect with me!**  
+ **Feel free to explore my projects and connect with me!**  
 
 
 <!--
