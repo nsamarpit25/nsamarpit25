@@ -4,6 +4,8 @@
 
 Passionate about building scalable web applications with modern technologies. Always exploring new development trends and best practices to improve my skills.  
 
+Currently learning NextJs and advance authentication process.
+
 ---
 
 ## 🔧 Tech Stack  
@@ -19,35 +21,6 @@ Passionate about building scalable web applications with modern technologies. Al
 
 ### Tools & Concepts  
 - Git | GitHub | Postman | OOPS | Problem Solving | DSA (Basics)  
-
----
-
-## Projects  
-
-### 📚 **Online Library Platform** ([Frontend Repo](https://github.com/nsamarpit25/ebook-react) | [Backend Repo](https://github.com/nsamarpit25/ebook-server) | [Live Demo](https://ebook-reactapp.vercel.app/))  
-- Full-stack eBook store with integrated reader and author publishing system  
-- Secure authentication with JWT, email verification, and role-based access  
-- ePub reader with progress tracking, bookmarking, and theme customization  
-- Stripe payment integration for secure transactions  
-- **Tech:** React, TypeScript, Node.js, Express, MongoDB, Redux Toolkit, EPubJS, Stripe API, Cloudinary  
-
-### 🏨 **Hotel Management System** ([Frontend Repo](https://github.com/nsamarpit25/next-wild-oasis-clientside) | [Live Demo](https://next-wild-oasis-client-side.vercel.app/))  
-- Dual-portal system for hotel operations and customer bookings  
-- Real-time availability checking and booking system with Supabase  
-- Dark mode, smooth UI, and interactive notifications  
-- **Tech:** Next.js, React Query, Supabase, Styled Components, React Hook Form  
-
-### 📊 **Admin Dashboard for Hotel Management** ([Repo](https://github.com/nsamarpit25/react-wild-oasis-prac-project) | [Live Demo](https://wild-oasis-prac-project.vercel.app/login))  
-- Dashboard displaying key performance indicators (KPIs)  
-- Booking management with check-in/out functionality  
-- Dynamic pricing and CRUD operations for cabin management  
-- **Tech:** React, React Query, Styled Components, Supabase, Recharts  
-
----
-
-## Education  
-- **Bachelor of Computer Applications (BCA)** - IGNOU (2022 - Present)  
-- **12th (Non-Medical)** - Pratap Public School (2022)  
 
 ---
 
