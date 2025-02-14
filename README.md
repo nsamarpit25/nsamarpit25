@@ -6,7 +6,7 @@
 
 Passionate about building scalable web applications with modern technologies. Always exploring new development trends and best practices to improve my skills.  
 
-Currently learning NextJs and advance authentication process.
+Currently learning DSA.
 
 ---
 
